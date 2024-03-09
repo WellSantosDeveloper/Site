@@ -1,0 +1,19 @@
+table, th, td {
+    border: 1px white;
+}
+fieldset{
+    border: 1px white;
+}
+body{
+    background-color: black;
+    color: white;
+}
+title{
+    color: white
+}
+ul{
+    color: white;
+}
+header{
+    background-color: rgb(108, 82, 82);
+}
